@@ -12,9 +12,9 @@ const CONFIG = {
 
 	// General
 	name: 'Sai Sibi',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
