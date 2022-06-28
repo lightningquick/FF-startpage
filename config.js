@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.xda-developers.com/',
 				},
 				{
-					name: 'F1',
-					link: 'https://www.formula1.com/',
+					name: 'calendar',
+					link: 'https://calendar.proton.me/u/1/',
 				},
 			],
 		},
